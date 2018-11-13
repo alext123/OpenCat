@@ -15,4 +15,6 @@ We just acquired our official domain: www.petoi.com.
 
 New annoucements will be posted on Twitter: @PetoiCamp. 
 
+ 尝试fork别人的库，跨库提交
+
 
