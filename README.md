@@ -1,4 +1,4 @@
-# OpenCat
+﻿# OpenCat
 **News: Our crowdfunding campaign is live on www.igg.me/at/nybble !**
 
 This is the repository for OpenCat project. 
@@ -16,5 +16,6 @@ We just acquired our official domain: www.petoi.com.
 New annoucements will be posted on Twitter: @PetoiCamp. 
 
  尝试fork别人的库，跨库提交
+每人提交到当地的分支，在合并到master需要pull up request？
 
 
